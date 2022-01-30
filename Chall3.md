@@ -1,5 +1,6 @@
 # Chall3
 - Đề bài cho 1 file python và 1 file ảnh PNG 
+
 [![](https://raw.githubusercontent.com/dungbn123/KMA-Recruit-WriteUp/main/Screenshot%202022-01-30%20203221.png)](https://raw.githubusercontent.com/dungbn123/KMA-Recruit-WriteUp/main/Screenshot%202022-01-30%20203221.png)
 
 - file này là file **.pyc** nên mình dùng tool để decompile ra file **.py** ,
