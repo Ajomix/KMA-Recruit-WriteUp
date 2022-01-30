@@ -17,10 +17,10 @@
 Ví dụ :
 
 **bR(0xab)=0xd5**
-**bR(0xd5)=0xab **
+
+**bR(0xd5)=0xab**
 
 - script mình dùng để giải :
 [![script](https://raw.githubusercontent.com/dungbn123/KMA-Recruit-WriteUp/main/Screenshot%202022-01-30%20194224.png "script")](https://raw.githubusercontent.com/dungbn123/KMA-Recruit-WriteUp/main/Screenshot%202022-01-30%20194224.png "script")
-
 
 **FLAG: KCSC{welc9me_t9_my_chall3ng3_easy_byte_reverse}**
