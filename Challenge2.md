@@ -1,6 +1,6 @@
 # **Challenge2**
 - Đề bài gồm 1 file python encoder và 1 file flag đã bị encrypt
-- 
+
 [![file](https://raw.githubusercontent.com/dungbn123/KMA-Recruit-WriteUp/main/Screenshot%202022-01-30%20191854.png "file")](http://https://raw.githubusercontent.com/dungbn123/KMA-Recruit-WriteUp/main/Screenshot%202022-01-30%20191854.png "file")
 
 
